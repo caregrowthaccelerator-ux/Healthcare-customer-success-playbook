@@ -20,10 +20,14 @@ A practical portfolio playbook for onboarding, adoption, risk management, execut
 | [`playbooks/onboarding-plan.md`](playbooks/onboarding-plan.md) | Implementation stages and exit criteria |
 | [`playbooks/adoption-risk-checklist.md`](playbooks/adoption-risk-checklist.md) | Early-warning indicators and actions |
 | [`models/customer-health-score.md`](models/customer-health-score.md) | Transparent health-score model |
+| [`health-score-data-dictionary.md`](health-score-data-dictionary.md) | Definitions, sources, status bands, and model guardrails |
+| [`discovery-question-bank.md`](discovery-question-bank.md) | Healthcare onboarding and expansion discovery questions |
+| [`objection-handling-guide.md`](objection-handling-guide.md) | Honest responses to AI, privacy, adoption, and value concerns |
 | [`templates/qbr-template.md`](templates/qbr-template.md) | Executive-ready QBR structure |
 | [`templates/stakeholder-map.md`](templates/stakeholder-map.md) | Influence, goals, risks, and engagement |
 | [`plans/30-60-90-day-success-plan.md`](plans/30-60-90-day-success-plan.md) | Success plan by phase |
 | [`examples/synthetic-account-plan.md`](examples/synthetic-account-plan.md) | Fictional account example |
+| [`case-studies/case-study-customer-success.md`](case-studies/case-study-customer-success.md) | Sanitized customer adoption and risk-management example |
 
 ## Guiding principle
 
